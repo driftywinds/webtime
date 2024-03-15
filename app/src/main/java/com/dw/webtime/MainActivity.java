@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
         webview.getSettings().setDomStorageEnabled(true);
         webview.getSettings().setCacheMode(WebSettings.LOAD_DEFAULT);
         webview.setOverScrollMode(WebView.OVER_SCROLL_NEVER);
-        webview.loadUrl(mainURL);
+        webview.loadUrl("https://www.003274.xyz/hd");
     }
 
     /**
@@ -77,7 +77,8 @@ public class MainActivity extends AppCompatActivity {
             dialog.show();
         }
 
-        // Check for external link
+        // USE THIS IF YOU WANT EXTERNAL LINKS TO OPEN IN THE DEFAULT BROWSER
+         // Check for external link
         @Override
         public boolean shouldOverrideUrlLoading(WebView view, String url) {
             if (!url.startsWith(mainURL)) {

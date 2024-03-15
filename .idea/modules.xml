@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webtime-master.iml" filepath="$PROJECT_DIR$/.idea/modules/webtime-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/webtime-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/webtime-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webtime.iml" filepath="$PROJECT_DIR$/.idea/modules/webtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/webtime.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/webtime.app.iml" />
     </modules>
   </component>
 </project>

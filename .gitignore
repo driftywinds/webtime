@@ -1,0 +1,3 @@
+*.iml
+.gradle
+./app/build

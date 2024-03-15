@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-compat:27.0.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Main/Android/android-studio-portable/data/.gradle/caches/transforms-2/files-2.1/c217ad5798cd45381e7269b05916df01/support-compat-27.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Main/Android/android-studio-portable/data/.gradle/caches/transforms-2/files-2.1/c217ad5798cd45381e7269b05916df01/support-compat-27.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Main/Android/android-studio-portable/data/.gradle/caches/transforms-2/files-2.1/c217ad5798cd45381e7269b05916df01/support-compat-27.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Main/Android/android-studio-portable/data/.gradle/caches/modules-2/files-2.1/com.android.support/support-compat/27.0.2/80acc64f280831f05960ede2cd87237e8d097ed2/support-compat-27.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

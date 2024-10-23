@@ -9,7 +9,7 @@ Here is an easy and quick way to make an Android “app” for any website. The 
 
 3) edit line 29 in MainActivity.java to set your own URL in mainURL
 
-4) edit line 6 in build.gradle to set you own applicationID
+4) edit line 6 in build.gradle in app\ directory to set your own applicationID
 
 5) edit line 2 in strings.xml to give your app a name 
 

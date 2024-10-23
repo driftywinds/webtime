@@ -16,3 +16,5 @@ Here is an easy and quick way to make an Android “app” for any website. The 
 6) put whatever image you want to use as a logo in app/res/drawable/ and name it as "icon.png" and "icon_round.png"  
 
 Thanks to: https://github.com/successtar/web-to-app and https://github.com/Jipok/website-to-apk
+
+NOTES: - install SDK command line tools from ASP SDK manager then gradle sync again if gradle sync fails

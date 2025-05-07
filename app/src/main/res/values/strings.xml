@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NAME OF APP</string>
+    <string name="website_url">https://example.com</string> <!-- Change this URL -->
+</resources>

@@ -1,4 +1,4 @@
-package com.thelounge.bin
+package com.example.app
 
 import org.junit.Test
 
